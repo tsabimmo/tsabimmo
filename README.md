@@ -6,7 +6,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-[![NPM Package](https://nodei.co/npm/@trandx/sortable.png)](https://www.npmjs.com/package/@trandx/sortable)
+[![NPM Package](https://nodei.co/npm/@trandx/sortable.png?downloads=true)](https://www.npmjs.com/package/@trandx/sortable)
 
 Sortable is a lightweight (311 bytes gzip), zero-dependency sorting library with TypeScript support.
 Its easy-to-use and flexible syntax, combined with incredible speed put than Fast-sort library. It's a top choice for developers who seek efficient, reliable, and customizable sorting solutions.
@@ -51,7 +51,7 @@ Its easy-to-use and flexible syntax, combined with incredible speed put than Fas
 ## Running online code link 
 For running code you can check [here](https://playcode.io/1532489)
 
-Fore more examples check [unit tests](https://github.com/Trandx/sortable/blob/production/test/sortable.spec.ts).
+Fore more examples check [unit tests](https://github.com/Trandx/sortable/blob/production/tests/sortable.spec.ts).
 
 
 
@@ -89,6 +89,7 @@ To run benchmark on your PC follow steps from below
 
 In case you notice any irregularities in benchmark or you want to add sort library to benchmark score
 please open issue [here](https://github.com/Trandx/sortable)
+
 ## Author
 
   [![alt text](https://avatars.githubusercontent.com/u/42522718?v=4)](https://github.com/Trandx/sortable)
